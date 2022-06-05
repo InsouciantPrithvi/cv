@@ -1,0 +1,26 @@
+body {
+    background-color: rgb(199, 250, 250);
+
+}
+
+hr {
+
+    background-color: white;
+    border-style: dotted none none;
+    width: 10%;
+    border-color: grey;
+    border-width: 5px;
+}
+
+img {
+    width: 200px;
+    border-radius: 200px;
+    float: left;
+    margin-right: 30px;
+}
+h1{
+   color: cornflowerblue;
+}
+h2{
+    color: cornflowerblue;
+}
